@@ -1,2 +1,2 @@
 #Alternate default index page
-#DirectoryIndex php/pages/home-corporate-1.php
+DirectoryIndex php/pages/home-corporate-1.php
