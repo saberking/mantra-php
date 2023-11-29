@@ -13,7 +13,8 @@
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Tangerine:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
+	<!--<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">-->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
 	<link rel="stylesheet" href="/css/elegant-icons.css" type="text/css">
 	<link rel="stylesheet" href="/css/animate.css" type="text/css">

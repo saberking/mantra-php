@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php $root_dir = $_SERVER["DOCUMENT_ROOT"] ?>
+	<?php $root_dir = $_SERVER["DOCUMENT_ROOT"] ?>
 	<title>Vistous &mdash; Multi-Purpose Creative Theme</title>
 
-<?php include_once $root_dir . '/php/components/head.php' ?>
+	<?php include_once $root_dir . '/php/components/head.php' ?>
 
 </head>
 <body>
@@ -13,72 +13,41 @@
 </div>
 
 
-<?php include_once $root_dir . '/php/components/header.php' ?>
+	<?php include_once $root_dir . '/php/components/header.php' ?>
 
 
-	<div class="slider-fullwidth" data-plugin-options='{"transitionStyle": "fade"}'>
 
-		<section class="home-section bg-dark-alpha-50 font-white bg-scroll bg-center-bottom" data-background-image="/img/fullwidth/fullwidth27.jpg">
+	<section class="home-section bg-dark-alpha-50 font-white bg-scroll bg-center-bottom" data-background-image="/img/fullwidth/fullwidth27.jpg">
 
-			<div class="js-height-full">
+		<div class="js-height-full">
 
-				<div class="home-container">
+			<div class="home-container">
 
-					<div class="home-content">
+				<div class="home-content">
 
-						<div class="container">
+					<div class="container">
 
-							<h1 class="font-size-52 line-height-11 mb-30 align-center">Corporate Vistous Template</h1>
+						<h1 class="font-size-52 line-height-11 mb-30 align-center">Corporate Vistous Template</h1>
 
-							<h3 class="font-size-16 align-center">Aliquam in urna vitae libero bibendum posuere quis in nulla</h3>
+						<h3 class="font-size-16 align-center">Aliquam in urna vitae libero bibendum posuere quis in nulla</h3>
 
-							<p class="align-center mt-40 mb-0">
-								<a href="#" class="btn btn-border-light">Get A Quote</a>
-								<a href="#" class="btn btn-border-light">Learn More</a>
-							</p>
+						<p class="align-center mt-40 mb-0">
+							<a href="#" class="btn btn-border-light">Get A Quote</a>
+							<a href="#" class="btn btn-border-light">Learn More</a>
+						</p>
 
-						</div> <!-- end .container -->
+					</div> <!-- end .container -->
 
-					</div> <!-- end .home-content -->
+				</div> <!-- end .home-content -->
 
-				</div> <!-- end .home-container -->
+			</div> <!-- end .home-container -->
 
-			</div> <!-- end .js-height-full -->
+		</div> <!-- end .js-height-full -->
 
-		</section> <!-- end .home-section -->
+	</section> <!-- end .home-section -->
 
-		<section class="home-section bg-dark-alpha-80 font-white bg-scroll" data-background-image="/img/fullwidth/fullwidth26.jpg">
+		
 
-			<div class="js-height-full">
-
-				<div class="home-container">
-
-					<div class="home-content">
-
-						<div class="container">
-
-							<h1 class="font-size-52 align-center">Get It Today</h1>
-
-							<blockquote class="bq-center">
-								<p class="text-middle">“You only live once, but if you do it right, once is enough.”</p>
-					  			<footer><cite title="Source Title">Mae West</cite></footer>
-							</blockquote>
-
-							<p class="mt-40 mb-0 align-center">
-								<a href="#" class="btn btn- btn-border-light">Buy Theme</a>
-							</p>
-
-						</div> <!-- end .container -->
-
-					</div> <!-- end .home-content -->
-
-				</div> <!-- end .home-container -->
-
-			</div> <!-- end .js-height-full -->
-
-		</section> <!-- end .home-section -->
-
-	</div> <!-- end .slider-fullwidth -->
 
 	<section class="page-section bg-light p-0">
 
