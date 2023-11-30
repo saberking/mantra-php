@@ -6,7 +6,7 @@
 
         <div class="header-row">
 
-            <a class="header-column" href="/php/pages/home.php">
+            <a class="header-column" style="width:40px" href="/php/pages/home.php">
                 <div class="logo-wrapper">
                     <img class="logo-dark" src="/img/mantra/logo-xs.png">
                     <img class="logo-light" src="/img/mantra/logo-xs.png">
