@@ -38,7 +38,7 @@
 
                         <li class="dropdown">
 
-                            <a href="/php/pages/testimonials.php">Testimonials</a>
+                            <a href="/php/pages/gallery.php">Gallery</a>
 
                         </li>
 
