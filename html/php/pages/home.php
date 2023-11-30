@@ -17,262 +17,29 @@
 
 
 
-	<section class="home-section bg-dark-alpha-50 font-white bg-scroll bg-center-bottom" data-background-image="/img/fullwidth/fullwidth27.jpg">
+	<section class="page-heading bg-dark-alpha-60 parallax-4 font-white" data-background-image="/img/fullwidth/fullwidth27.jpg">
 
-		<div class="js-height-full">
+		<div class="container mt-80">
+			<div class="row">
+				
+				<div class="col-md-12 pt-30 pb-30">
 
-			<div class="home-container">
+					<h1 class="align-center">Mantra Recruitment Group</h1>
 
-				<div class="home-content">
+				
+				</div>
 
-					<div class="container">
 
-						<h1 class="font-size-52 line-height-11 mb-30 align-center">Mantra Recruitment Group</h1>
+			</div>
+		</div>
 
-						<div class="font-size-16 align-center" style="color: white">With you every step of the way</div>
+	</section>
 
-						<p class="align-center mt-40 mb-0">
-							<a href="#" class="btn btn-border-light">Get A Quote</a>
-							<a href="#" class="btn btn-border-light">Learn More</a>
-						</p>
-
-					</div> <!-- end .container -->
-
-				</div> <!-- end .home-content -->
-
-			</div> <!-- end .home-container -->
-
-		</div> <!-- end .js-height-full -->
-
-	</section> <!-- end .home-section -->
 
 		
 
 
-	<section class="page-section bg-light p-0">
 
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-2 col-sm-3 col-xs-6">
-
-					<div class="client-logo wow fadeInDown">
-						<img src="/img/clients/google-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-				<div class="col-md-2 col-sm-3 col-xs-6">
-
-					<div class="client-logo wow fadeInDown" data-wow-delay="100ms">
-						<img src="/img/clients/ibm-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-				<div class="col-md-2 col-sm-3 col-xs-6">
-
-					<div class="client-logo wow fadeInDown" data-wow-delay="200ms">
-						<img src="/img/clients/microsoft-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-				<div class="col-md-2 col-sm-3 col-xs-6">
-
-					<div class="client-logo wow fadeInDown" data-wow-delay="300ms">
-						<img src="/img/clients/paypal-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-				<div class="col-md-2 col-sm-3 col-sm-offset-3 col-md-offset-0 col-xs-6">
-
-					<div class="client-logo wow fadeInDown" data-wow-delay="400ms">
-						<img src="/img/clients/wd-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-				<div class="col-md-2 col-sm-3 col-xs-6">
-
-					<div class="client-logo wow fadeInDown" data-wow-delay="500ms">
-						<img src="/img/clients/oracle-logo.png" alt="Client Logo">
-					</div>
-
-				</div>
-
-			</div> <!-- end .row -->
-
-		</div> <!-- end .container -->
-
-	</section> <!-- end .page-section -->
-
-	<section class="page-section">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
-
-					<h6 class="wow fadeInLeft">Our Mission</h6>
-
-					<p class="wow fadeInLeft">Sed semper neque quis ipsum vehicula, ut semper urna rutrum. Proin a est at sapien pulvinar pretium. Nulla iaculis at eros ultricies commodo. Cras lacinia ipsum sit amet.</p>
-
-				</div>
-
-				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
-
-					<h6 class="wow fadeInLeft" data-wow-delay="150ms">Our Purpose</h6>
-
-					<p class="wow fadeInLeft" data-wow-delay="150ms">Mauris sagittis lectus at hendrerit viverra. Sed ac purus sed mauris pharetra posuere. Vivamus sed ipsum semper, auctor erat a, vulputate augue.</p>
-
-				</div>
-
-				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
-
-					<h6 class="wow fadeInLeft" data-wow-delay="300ms">Our Beliefs</h6>
-
-					<p class="wow fadeInLeft" data-wow-delay="300ms">Aliquam in urna vitae libero bibendum posuere quis in nulla. Etiam sollicitudin vestibulum quam, varius pharetra diam ultrices in. Aenean risus felis, blandit eget vulputate eget, varius ut justo</p>
-
-				</div>
-
-			</div> <!-- end .row -->
-
-		</div> <!-- end .container -->
-
-	</section> <!-- end .page-section -->
-
-	<hr class="mb-0">
-
-	<section class="page-section">
-
-		<div class="container">
-
-			<h2 class="align-center">Our Portfolio</h2>
-
-			<p class="mb-60 align-center">Sed semper neque quis ipsum vehicula.</p>
-
-			<div class="portfolio-container portfolio-col-4 portfolio-masonry portfolio-no-space">
-
-				<div class="portfolio-item">
-
-					<div class="pi-image">
-
-						<a href="work-single-item.html"></a>
-
-						<img src="/img/work/medium/1.jpg">
-
-						<div class="pi-overlay bg-light-alpha-80">
-									
-							<div class="pi-content pi-content-middle pi-content-center">
-
-								<i class="icon_plus_alt2 icon-plain icon-middle icon-xlarge icon-bg-alpha-light m-0"></i>
-
-							</div> <!-- end .pi-content -->
-
-							<div class="pi-content pi-content-bottom pi-content-center">
-
-								<h6 class="pi-title">Fancy Car</h6>
-
-							</div> <!-- end .pi-content -->
-
-						</div> <!-- end .pi-overlay -->
-
-					</div> <!-- end .pi-image -->
-
-				</div> <!-- end .portfolio-item -->
-
-				<div class="portfolio-item">
-							
-					<div class="pi-image">
-
-						<a href="work-single-item.html"></a>
-
-						<img src="/img/work/medium/2.jpg">
-
-						<div class="pi-overlay bg-light-alpha-80">
-									
-							<div class="pi-content pi-content-middle pi-content-center">
-
-								<i class="icon_plus_alt2 icon-plain icon-middle icon-xlarge icon-bg-alpha-light m-0"></i>
-
-							</div> <!-- end .pi-content -->
-
-							<div class="pi-content pi-content-bottom pi-content-center">
-
-								<h6 class="pi-title">Blue Balls</h6>
-
-							</div> <!-- end .pi-content -->
-
-						</div> <!-- end .pi-overlay -->
-
-					</div> <!-- end .pi-image -->
-
-				</div> <!-- end .portfolio-item -->
-
-				<div class="portfolio-item">
-
-					<div class="pi-image">
-
-						<a href="work-single-item.html"></a>
-
-						<img src="/img/work/medium/3.jpg">
-
-						<div class="pi-overlay bg-light-alpha-80">
-									
-							<div class="pi-content pi-content-middle pi-content-center">
-
-								<i class="icon_plus_alt2 icon-plain icon-middle icon-xlarge icon-bg-alpha-light m-0"></i>
-
-							</div> <!-- end .pi-content -->
-
-							<div class="pi-content pi-content-bottom pi-content-center">
-
-								<h6 class="pi-title">Boats</h6>
-
-							</div> <!-- end .pi-content -->
-						</div> <!-- end .pi-overlay -->
-
-					</div> <!-- end .pi-image -->
-
-				</div> <!-- end .portfolio-item -->
-
-				<div class="portfolio-item">
-
-					<div class="pi-image">
-
-						<a href="work-single-item.html"></a>
-
-						<img src="/img/work/medium/4.jpg">
-
-						<div class="pi-overlay bg-light-alpha-80">
-
-							<div class="pi-content pi-content-middle pi-content-center">
-
-								<i class="icon_plus_alt2 icon-plain icon-middle icon-xlarge icon-bg-alpha-light m-0"></i>
-
-							</div> <!-- end .pi-content -->
-
-							<div class="pi-content pi-content-bottom pi-content-center">
-
-								<h6 class="pi-title">Glass Prison</h6>
-
-							</div> <!-- end .pi-content -->
-
-						</div> <!-- end .pi-overlay -->
-
-					</div> <!-- end .pi-image -->
-
-				</div> <!-- end .portfolio-item -->
-
-			</div> <!-- end .portfolio-container -->
-
-		</div> <!-- end .container -->
-
-	</section> <!-- end .page-section -->
 
 	<section class="page-section bg-light">
 

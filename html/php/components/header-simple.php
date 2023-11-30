@@ -6,12 +6,12 @@
 
         <div class="header-row">
 
-            <div class="header-column">
+            <a class="header-column" href="/php/pages/home.php">
                 <div class="logo-wrapper">
                     <img class="logo-dark" src="/img/mantra/logo-xs.png">
                     <img class="logo-light" src="/img/mantra/logo-xs.png">
                 </div>
-            </div>
+</a>
 
             <div class="header-column">
 
