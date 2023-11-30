@@ -151,189 +151,47 @@
 
 	</section> <!-- end .page-section -->
 
-	<section class="page-section">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-4 col-sm-12 mb-sm-60">
-
-					<h4 class="mb-30">About Us</h4>
-
-					<p>Mauris volutpat, tortor id porttitor bibendum, felis nisi aliquam tellus, et lacinia quam dolor at mi. Cras cursus risus dui, eget porta nisi facilisis ut. Cras tristique ullamcorper nulla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-					<p>
-						<a href="#" class="btn btn-border-dark btn-small">View More</a>
-						<a href="#" class="btn btn-bg-gray btn-small">About Us</a>
-					</p>
-
-				</div>
-
-				<div class="col-md-4 col-sm-12">
-
-					<h4 class="mb-30">Twitter Feed</h4>
-
-					<div class="widget">
-
-						<div class="widget-twitter">
-
-							<ul class="twitter-feed" data-plugin-options='{"username": "envato", "count": "2"}'>
-								<li></li>
-							</ul> <!-- end .twitter-feed -->
-
-						</div> <!-- end .widget-twitter -->
-
-					</div> <!-- end .widget -->
-
-				</div>
-
-				<div class="col-md-4 col-sm-12">
-
-					<h4 class="mb-30">Our Skills</h4>
-
-					<div class="progress pr-alt pr-dark">
-						<div class="pr-bar" role="progressbar" aria-value="80">
-							Web Design
-						</div>
-					</div>
-
-					<div class="progress pr-alt pr-dark">
-						<div class="pr-bar" role="progressbar" aria-value="75">
-							Development
-						</div>
-					</div>
-
-					<div class="progress pr-alt pr-dark">
-						<div class="pr-bar" role="progressbar" aria-value="70">
-							Branding
-						</div>
-					</div>
-
-					<div class="progress pr-alt pr-dark">
-						<div class="pr-bar" role="progressbar" aria-value="85">
-							Marketing
-						</div>
-					</div>
-
-					<div class="progress pr-alt pr-dark">
-						<div class="pr-bar" role="progressbar" aria-value="75">
-							Analytics
-						</div>
-					</div>
-
-				</div>
-
-			</div> <!-- end .row -->
-
-		</div> <!-- end .container -->
-
-	</section> <!-- end .page-section -->
+	
 
 	<section class="page-section bg-dark-alpha-70 font-white" data-background-image="/img/fullwidth/fullwidth22.jpg">
 
-		<div class="container">
+	<div class="container" style="position: relative;color:white" >
 
-			<div class="row">
+<h2 class="align-center" style="color:white">Testimonials</h2>
 
-				<div class="col-md-3 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1 mb-sm-40">
+<p class="align-center mb-60">Maecenas varius aliquam risus, eu dictum lacus tempus</p>
 
-					<div class="counter co-center">
-						<div class="co-icon">
-							<i class="icon_check"></i>
-						</div>
-						<div class="co-number" data-to="179"></div>
-						<span class="co-desc">
-							Finished Projects
-						</span>
-						
-					</div>
+<div class="row">
 
-				</div>
+	<div class="col-md-8 col-md-offset-2 col-sm-12">
 
-				<div class="col-md-3 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1 mb-sm-40">
+		<div class="slider-item-single">
 
-					<div class="counter co-center">
-						<div class="co-icon">
-							<i class="icon_mug"></i>
-						</div>
-						<div class="co-number" data-to="504"></div>
-						<span class="co-desc">
-							Cups Of Coffee
-						</span>
-					</div>
+			<blockquote class="bq-center">
+				<p>Curabitur at purus erat. Duis et lectus ac quam pharetra malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
+			</blockquote>
 
-				</div>
+			<blockquote class="bq-center">
+				<p>Ut sagittis lacus congue magna hendrerit consectetur. In ac vulputate enim. Aliquam quis urna congue, suscipit nulla ut, porta ipsum.</p>
+				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
+			</blockquote>
 
-				<div class="col-md-3 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1 mb-xs-40">
+			<blockquote class="bq-center">
+				<p>Praesent leo arcu, blandit vitae urna nec, vestibulum venenatis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
+			</blockquote>
 
-					<div class="counter co-center">
-						<div class="co-icon">
-							<i class="icon_pencil"></i>
-						</div>
-						<div class="co-number" data-to="12000"></div>
-						<span class="co-desc">
-							Lines of Code
-						</span>
-					</div>
+		</div> <!-- end .slider-item-single -->
 
-				</div>
+	</div> <!-- end column -->
 
-				<div class="col-md-3 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+</div> <!-- end .row -->
 
-					<div class="counter co-center">
-						<div class="co-icon">
-							<i class="icon_profile"></i>
-						</div>
-						<div class="co-number" data-to="1200"></div>
-						<span class="co-desc">
-							Happy Customers
-						</span>
-					</div>
+</div> <!-- end .container -->
 
-				</div>
 
-			</div> <!-- end .row -->
-
-		</div> <!-- end .container -->
-
-	</section> <!-- end .page-section -->
-
-	<section class="page-section">
-
-		<div class="container">
-
-			<h2 class="align-center">Testimonials</h2>
-
-			<p class="align-center mb-60">Maecenas varius aliquam risus, eu dictum lacus tempus</p>
-
-			<div class="row">
-
-				<div class="col-md-8 col-md-offset-2 col-sm-12">
-
-					<div class="slider-item-single">
-
-						<blockquote class="bq-center">
-							<p>Curabitur at purus erat. Duis et lectus ac quam pharetra malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-					  		<footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
-						</blockquote>
-
-						<blockquote class="bq-center">
-							<p>Ut sagittis lacus congue magna hendrerit consectetur. In ac vulputate enim. Aliquam quis urna congue, suscipit nulla ut, porta ipsum.</p>
-					  		<footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
-						</blockquote>
-
-						<blockquote class="bq-center">
-							<p>Praesent leo arcu, blandit vitae urna nec, vestibulum venenatis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-					  		<footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
-						</blockquote>
-
-					</div> <!-- end .slider-item-single -->
-
-				</div> <!-- end column -->
-
-			</div> <!-- end .row -->
-
-		</div> <!-- end .container -->
+		
 
 	</section> <!-- end .page-section -->
 
