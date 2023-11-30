@@ -21,16 +21,16 @@
 
                         <!-- Home -->
                         <li class="dropdown">
-                            <a href="#">Home</a>
+                            <a href="/php/pages/home.php">Home</a>
                         </li>
 
                         <li class="dropdown">
-                            <a href="#">Pages</a>
+                            <a href="/php/pages/security.php">Security</a>
                         </li>
 
                         <li class="dropdown">
 
-                            <a href="#">Features</a>
+                            <a href="/php/pages/warehouse.php">Warehouse</a>
 
                          
 
@@ -38,41 +38,19 @@
 
                         <li class="dropdown">
 
-                            <a href="#">Work</a>
+                            <a href="/php/pages/testimonials.php">Testimonials</a>
 
                         </li>
 
                         <li class="dropdown">
 
-                            <a href="#">Blog</a>
+                            <a href="/php/pages/contact.php">Contact us</a>
                         </li>
 
-                        <li class="dropdown">
-
-                            <a href="#">Shop</a>
-
-                        </li>
                         <li class="mobile-hide">
                             <a href="#">&nbsp;</a>
                         </li>
 
-                        <li class="dropdown mobile-hide">
-
-                            <a href="#">
-                                <i class="icon_search"></i>
-                            </a>
-
-                            <div class="dropdown-search left">
-                                <div class="input-group">
-                                    <input class="form-control" type="text" placeholder="Search...">
-                                    <div class="input-group-btn">
-                                        <button class="btn">
-                                            <i class="icon_search"></i>
-                                        </button>
-                                    </div>
-                            </div> <!-- end .dropdown-search -->
-
-                        </li>
 
                     </ul> <!-- end .main-nav -->
 

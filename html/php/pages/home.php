@@ -2,7 +2,7 @@
 <html>
 <head>
 	<?php $root_dir = $_SERVER["DOCUMENT_ROOT"] ?>
-	<title>Vistous &mdash; Multi-Purpose Creative Theme</title>
+	<title>Mantra Recruitment Group</title>
 
 	<?php include_once $root_dir . '/php/components/head.php' ?>
 
@@ -27,9 +27,9 @@
 
 					<div class="container">
 
-						<h1 class="font-size-52 line-height-11 mb-30 align-center">Corporate Vistous Template</h1>
+						<h1 class="font-size-52 line-height-11 mb-30 align-center">Mantra Recruitment Group</h1>
 
-						<h3 class="font-size-16 align-center">Aliquam in urna vitae libero bibendum posuere quis in nulla</h3>
+						<div class="font-size-16 align-center" style="color: white">With you every step of the way</div>
 
 						<p class="align-center mt-40 mb-0">
 							<a href="#" class="btn btn-border-light">Get A Quote</a>
