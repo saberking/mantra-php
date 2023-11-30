@@ -13,7 +13,7 @@
 </div>
 
 
-	<?php include_once $root_dir . '/php/components/header.php' ?>
+	<?php include_once $root_dir . '/php/components/header-simple.php' ?>
 
 
 

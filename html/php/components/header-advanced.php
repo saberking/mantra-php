@@ -8,8 +8,8 @@
 
             <div class="header-column">
                 <div class="logo-wrapper">
-                    <img class="logo-dark" src="/img/logo-dark-small.png">
-                    <img class="logo-light" src="/img/logo-light-small.png">
+                    <img class="logo-dark" src="/img/mantra/logo-small.png">
+                    <img class="logo-light" src="/img/mantra/logo-small.png">
                 </div>
             </div>
 
