@@ -41,17 +41,21 @@
 			<h2 class="align-center mb-60">Image Overlay</h2>
 
 			<div class="row mb-80">
+				<?php 
+				$files = scandir($root_dir . '/img/mantra/');
+				foreach($files as $file) {
+					if(!str_ends_with($file, 'l')&&!str_ends_with($file, '.')&&!str_contains($file, 'logo')&&!str_contains($file, 'favicon'))
+				  echo( "
+				  <div class=\"col-md-4 col-sm-6 col-xs-12\">
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class=\"photo-box\">
 
-					<div class="photo-box">
+						<div class=\"pb-image\">
 
-						<div class="pb-image">
+							<img src=\"/img/mantra/" . $file . "\">
 
-							<img src="http://patrykowczarek.com/demo/vistous/img/work/medium/1.jpg">
-
-							<div class="pb-overlay bg-light-alpha-70">
-								<div class="pb-content pb-content-bottom pb-content-center">
+							<div class=\"pb-overlay bg-light-alpha-70\">
+								<div class=\"pb-content pb-content-bottom pb-content-center\">
 
 									<h5>Creative People</h5>
 
@@ -63,50 +67,9 @@
 					</div>
 
 				</div>
+				  ");
+				} ?>
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="photo-box">
-
-						<div class="pb-image">
-
-							<img src="http://patrykowczarek.com/demo/vistous/img/work/medium/3.jpg">
-
-							<div class="pb-overlay bg-light-alpha-70">
-								<div class="pb-content pb-content-bottom pb-content-center">
-
-									<h5>Briliant Ideas</h5>
-
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="photo-box">
-
-						<div class="pb-image">
-
-							<img src="http://patrykowczarek.com/demo/vistous/img/work/medium/4.jpg">
-
-							<div class="pb-overlay bg-light-alpha-70">
-								<div class="pb-content pb-content-center pb-content-bottom">
-									
-									<h5>Briliant Ideas</h5>
-
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
 
 			</div> <!-- end .row -->
 
