@@ -43,7 +43,7 @@
 				<?php 
 				$files = scandir($root_dir . '/img/mantra/');
 				foreach($files as $file) {
-					if(!(mb_substr($file, -1)=='l')&&!(mb_substr($file, -1)=='.')&&!str_contains($file, 'logo')&&!str_contains($file, 'favicon'))
+					if(!(substr($file, -1)=='l')&&!(substr($file, -1)=='.')&&!str_contains($file, 'logo')&&!str_contains($file, 'favicon'))
 				  echo( "
 				  <div class=\"col-md-4 col-sm-6 col-xs-12\">
 
