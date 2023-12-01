@@ -49,54 +49,36 @@
 
 			<div class="row">
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
+				<div class=" col-sm-6 col-xs-12">
 
 					<div class="icon-box ib-icon-aside wow fadeInUp">
 
-						<div class="ib-icon">
-							<i class="icon_cloud"></i>
-						</div>
 
-						<h6 class="ib-title">Cloud Computing</h6>
-
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
+						<h6 class="ib-title"><a href="/php/pages/security.php">Security</a></h6>
+						<div style="position:relative">
+<img style="width:80%; opacity:0.2; position:absolute; left:10%" src="/img/pixabay/security-icon.png"/>
+						<p style="position:relative; background-color: rgba(255, 220, 220, 0); color: #111122" class="ib-desc">With over 15 years of experience in the industry, our management team knows all of the ins and outs of security roles. Whatever your requirements may be, whether door supervisors for pubs, clubs and events, daytime or night-time guards for buildings, sites and warehouses, retail, keyholding or CCTV, we can supply the right member of staff at short notice to make sure that your business continues to prosper. All of our security staff are professional, approachable and responsible. We are sure that you will be very satisfied with our service. </p>
+</div>
 					</div> <!-- end .icon-box -->
 
 				</div> <!-- end column -->
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
+				<div class=" col-sm-6 col-xs-12">
 
 					<div class="icon-box ib-icon-aside wow fadeInUp" data-wow-delay="150ms">
 
-						<div class="ib-icon">
-							<i class="icon_headphones"></i>
-						</div>
 
-						<h6 class="ib-title">24/7 Support</h6>
 
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
+						<h6 class="ib-title"><a href="/php/pages/warehouse.php">Warehouse</a></h6>
+						<div style="position:relative">
+						<img style="width:80%; opacity:0.2; position:absolute; left:10%" src="/img/pixabay/forklift-icon.svg"/>
+						<p style="position:relative; background-color: rgba(255, 220, 220, 0); color: #111122" class="ib-desc">Mantra Recruitment Group has a team of highly-motivated, hard-working and well-trained warehouse staff to make sure that your operations go smoothly. Whether you need an extra pair of hands or two to help at busy times or to cover staff sickness or would like a new colleague on a long-term contract, we are sure that you will be happy with our services. Our experienced team includes FLT drivers, delivery drivers, item pickers and stock control experts. Please contact us if you would like to discuss your needs, we are sure we can offer you a package which will suit your requirements.</p>
+</div>
 					</div> <!-- end .icon-box -->
 
 				</div> <!-- end column -->
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="icon-box ib-icon-aside wow fadeInUp" data-wow-delay="300ms">
-
-						<div class="ib-icon">
-							<i class="icon_drive"></i>
-						</div>
-
-						<h6 class="ib-title">Powerful Servers</h6>
-
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
-					</div> <!-- end .icon-box -->
-
-				</div> <!-- end column -->
-
+				
 
 			</div> <!-- end .row -->			
 
@@ -112,8 +94,6 @@
 
 <h2 class="align-center" style="color:white">Testimonials</h2>
 
-<p class="align-center mb-60">Maecenas varius aliquam risus, eu dictum lacus tempus</p>
-
 <div class="row">
 
 	<div class="col-md-8 col-md-offset-2 col-sm-12">
@@ -121,19 +101,16 @@
 		<div class="slider-item-single">
 
 			<blockquote class="bq-center">
-				<p>Curabitur at purus erat. Duis et lectus ac quam pharetra malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
+				<p>"Excellent service from a great team of guys, even at short notice. Always on hand with flexible solutions for any staffing needs."</p>
+				  <footer><cite title="Source Title">Top Lines Catering Supplies Limited</cite></footer>
 			</blockquote>
 
 			<blockquote class="bq-center">
-				<p>Ut sagittis lacus congue magna hendrerit consectetur. In ac vulputate enim. Aliquam quis urna congue, suscipit nulla ut, porta ipsum.</p>
-				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
+				<p>"We have used Mantra Recruitment a couple of times, sometimes at short notice, and they have always sent good professional people.
+I'm happy with the service and hope to continue working with Mantra Recruitment!"</p>
+				  <footer><cite title="Source Title">Chief Cards</cite></footer>
 			</blockquote>
 
-			<blockquote class="bq-center">
-				<p>Praesent leo arcu, blandit vitae urna nec, vestibulum venenatis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-				  <footer><cite title="Source Title">John Doe</cite>, Doodle Inc.</footer>
-			</blockquote>
 
 		</div> <!-- end .slider-item-single -->
 
