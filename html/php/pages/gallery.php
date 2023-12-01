@@ -15,23 +15,7 @@
 
 	<?php include_once $root_dir . '/php/components/header-simple.php' ?>
 
-	<section class="page-heading bg-dark-alpha-60 parallax-4 font-white" data-background-image="/img/fullwidth/fullwidth27.jpg">
 
-		<div class="container mt-80">
-			<div class="row">
-				
-				<div class="col-md-12 pt-30 pb-30">
-
-					<h1 class="align-center"></h1>
-
-				
-				</div>
-
-
-			</div>
-		</div>
-
-	</section>
 
 
 	<section class="page-section" style="background-color: #111111">
