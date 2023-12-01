@@ -21,16 +21,16 @@
 
                         <!-- Home -->
                         <li class="dropdown">
-                            <a href="/php/pages/home.php">Home</a>
+                            <a class="dropdown-padded" href="/php/pages/home.php">Home</a>
                         </li>
 
                         <li class="dropdown">
-                            <a href="/php/pages/security.php">Security</a>
+                            <a class="dropdown-padded" href="/php/pages/security.php">Security</a>
                         </li>
 
                         <li class="dropdown">
 
-                            <a href="/php/pages/warehouse.php">Warehouse</a>
+                            <a class="dropdown-padded" href="/php/pages/warehouse.php">Warehouse</a>
 
                          
 
@@ -38,13 +38,13 @@
 
                         <li class="dropdown">
 
-                            <a href="/php/pages/gallery.php">Gallery</a>
+                            <a class="dropdown-padded" href="/php/pages/gallery.php">Gallery</a>
 
                         </li>
 
                         <li class="dropdown">
 
-                            <a href="/php/pages/contact.php">Contact us</a>
+                            <a class="dropdown-padded" href="/php/pages/contact.php">Contact us</a>
                         </li>
 
                         <li class="mobile-hide">

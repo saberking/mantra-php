@@ -2193,6 +2193,9 @@ body.header-stick .wrapper {
     display: none;
   }
 }
+.dropdown-padded {
+  padding: 20px;
+}
 /* --------------------------------------
 	5. Sliders
 -------------------------------------- */
