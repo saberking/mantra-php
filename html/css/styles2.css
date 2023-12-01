@@ -3589,14 +3589,7 @@ ul.timeline.timeline-right .timeline-item:before {
 -------------------------------------- */
 .copyright-wrapper {
   width: 100%;
-  height: 120px;
-  line-height: 60px;
   background-color: rgba(3, 3, 3, 0.1);
-}
-@media (min-width: 992px) {
-  .copyright-wrapper {
-    height: 60px;
-  }
 }
 /* --------------------------------------
 	11. Side Panel
@@ -7672,7 +7665,7 @@ div.address > h4 {
 div.mapcontainer {
   flex-grow: 10;
   align-self: stretch;
-  height: 550px;
+  height: 650px;
 }
 @media screen and (max-width: 991px) {
   div.mapcontainer {

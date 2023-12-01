@@ -24,7 +24,7 @@
 				
 				<div class="col-md-12 pt-30 pb-30">
 
-					<h1 class="align-center">Security</h1>
+					<h1 class="align-center">Warehouse</h1>
 
 				
 				</div>
@@ -43,30 +43,26 @@
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft">Security Officers</h6>
+					<h6 class="wow fadeInLeft">FLT Drivers</h6>
 
 					<p class="wow fadeInLeft">
-                        Our security officers are highly professional, approachable and responsible. We supply carefully selected security officers both for short-notice cover and 
-                        on long-term contracts to fit your particular requirements. If you are looking for a local, reliable and friendly service, please get in touch to discuss
-                        your requirements 
-                        and see if 
-                        we can help.</p>
+                    Our team of professional forklift drivers are an essential resource for filling in at busy times, covering staff absences and longer-term contracts. All of our drivers are carefully vetted by our management so that every client is satisfied with our service. Get in touch today to see how we can help!</p>
 
 				</div>
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft" data-wow-delay="150ms">Our Purpose</h6>
+					<h6 class="wow fadeInLeft" data-wow-delay="150ms">Warehouse Staff</h6>
 
-					<p class="wow fadeInLeft" data-wow-delay="150ms">Mauris sagittis lectus at hendrerit viverra. Sed ac purus sed mauris pharetra posuere. Vivamus sed ipsum semper, auctor erat a, vulputate augue.</p>
+					<p class="wow fadeInLeft" data-wow-delay="150ms">For all of your warehouse staffing requirements, Mantra Recruitment Group has got you covered. Our staff are carefully selected and fully trained in manual handling, checking stock, loading and unloading vehicles and fulfilling orders. With our competitive rates and can-do attitude, we are certain you won't need to look any further. Get it touch now to find out more!</p>
 
 				</div>
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft" data-wow-delay="300ms">Our Beliefs</h6>
+					<h6 class="wow fadeInLeft" data-wow-delay="300ms">Van Drivers</h6>
 
-					<p class="wow fadeInLeft" data-wow-delay="300ms">Aliquam in urna vitae libero bibendum posuere quis in nulla. Etiam sollicitudin vestibulum quam, varius pharetra diam ultrices in. Aenean risus felis, blandit eget vulputate eget, varius ut justo</p>
+					<p class="wow fadeInLeft" data-wow-delay="300ms">Efficiency, professionalism and customer service are essential attributes for all delivery drivers. For both short-notice assignments and longer-term contracts, our drivers can handle the job, ensuring that both you and your customers are happy. We carefully select our staff depending on the nature of the work, making sure that the colleagues we supply are a perfect fit for the job at hand. Please contact us to find out more!</p>
 
 				</div>
 

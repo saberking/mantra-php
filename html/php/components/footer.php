@@ -20,14 +20,7 @@
         Company no. 13802037
             </p>
 
-            <div class="widget">
 
-                <div class="widget-text">
-
-
-                </div> <!-- end .widget-text -->
-
-            </div> <!-- end .widget -->
 
         </div> <!-- end column -->
 
@@ -48,10 +41,10 @@
 
             <div class="col-md-6 col-sm-12">
 
-                <span class="font-size-14">
-                    &copy; Patryk Owczarek (Vistous HTML Template) and Mantra Recruitment Group. <br>
-                    MIT licence
-                </span>
+                <div class="font-size-14">
+                    &copy; Patryk Owczarek (Vistous HTML Template) and Mantra Recruitment Group. <br><br>
+                    MIT licence<br><br>
+</div>
 
             </div>
 

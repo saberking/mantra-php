@@ -34,7 +34,7 @@
 	</section>
 
 
-	<section class="page-section">
+	<section class="page-section" style="background-color: #111111">
 
 		<div class="container">
 

@@ -56,17 +56,17 @@
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft" data-wow-delay="150ms">Our Purpose</h6>
+					<h6 class="wow fadeInLeft" data-wow-delay="150ms">Door Supervisors</h6>
 
-					<p class="wow fadeInLeft" data-wow-delay="150ms">Mauris sagittis lectus at hendrerit viverra. Sed ac purus sed mauris pharetra posuere. Vivamus sed ipsum semper, auctor erat a, vulputate augue.</p>
+					<p class="wow fadeInLeft" data-wow-delay="150ms">With over 15 years of experience managing doors at pubs, clubs and events, whatever your requirements, we've got you covered. We only hire the best door supervisors and offer very reasonable rates. We pay our staff well above the National Minimum Wage, meaning that our staff are happy and that we are able to maintain positive relationships with everybody involved.</p>
 
 				</div>
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft" data-wow-delay="300ms">Our Beliefs</h6>
+					<h6 class="wow fadeInLeft" data-wow-delay="300ms">Event Stewards</h6>
 
-					<p class="wow fadeInLeft" data-wow-delay="300ms">Aliquam in urna vitae libero bibendum posuere quis in nulla. Etiam sollicitudin vestibulum quam, varius pharetra diam ultrices in. Aenean risus felis, blandit eget vulputate eget, varius ut justo</p>
+					<p class="wow fadeInLeft" data-wow-delay="300ms">Our experienced and friendly event stewards are guaranteed to put a smile on your customers' faces. Whether you need efficient traffic managers, upbeat ticket salespeople or friendly meet-and-greet, our pool of talent will fit the bill. Please get in touch now to find out more about how we can make your event a success!</p>
 
 				</div>
 
