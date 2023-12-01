@@ -22,7 +22,7 @@
 				
 				<div class="col-md-12 pt-30 pb-30">
 
-					<h1 class="align-center">Security</h1>
+					<h1 class="align-center"></h1>
 
 				
 				</div>
@@ -38,7 +38,6 @@
 
 		<div class="container">
 
-			<h2 class="align-center mb-60">Image Overlay</h2>
 
 			<div class="row mb-80">
 				<?php 
@@ -54,13 +53,7 @@
 
 							<img src=\"/img/mantra/" . $file . "\">
 
-							<div class=\"pb-overlay bg-light-alpha-70\">
-								<div class=\"pb-content pb-content-bottom pb-content-center\">
 
-									<h5>Creative People</h5>
-
-								</div>
-							</div>
 
 						</div>
 

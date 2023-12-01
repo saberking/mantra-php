@@ -26,15 +26,6 @@
 
 					<h1 class="align-center">Contact Us</h1>
 
-					<div class="font-size-15 text-middle align-center">
-						Lorem ipsum dolor sit amet vivamus quis massa
-					</div>
-
-					<ol class="breadcrumb align-center mt-40 mb-0">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Pages</a></li>
-						<li>Contact Us</li>
-					</ol>
 
 				</div>
 

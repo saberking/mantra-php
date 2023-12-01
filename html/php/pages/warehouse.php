@@ -17,7 +17,7 @@
 
 
 
-	<section class="page-heading bg-dark-alpha-60 parallax-4 font-white" data-background-image="img/fullwidth/fullwidth27.jpg">
+	<section class="page-heading bg-dark-alpha-60 parallax-4 font-white" data-background-image="/img/fullwidth/fullwidth27.jpg">
 
 		<div class="container mt-80">
 			<div class="row">
@@ -26,16 +26,7 @@
 
 					<h1 class="align-center">Security</h1>
 
-					<div class="font-size-15 text-middle align-center">
-						Lorem ipsum dolor sit amet vivamus quis massa
-					</div>
-
-					<ol class="breadcrumb align-center mt-40 mb-0">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Pages</a></li>
-						<li>Services</li>
-					</ol>
-
+				
 				</div>
 
 
@@ -52,9 +43,14 @@
 
 				<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 col-xs-12">
 
-					<h6 class="wow fadeInLeft">Our Mission</h6>
+					<h6 class="wow fadeInLeft">Security Officers</h6>
 
-					<p class="wow fadeInLeft">Sed semper neque quis ipsum vehicula, ut semper urna rutrum. Proin a est at sapien pulvinar pretium. Nulla iaculis at eros ultricies commodo. Cras lacinia ipsum sit amet.</p>
+					<p class="wow fadeInLeft">
+                        Our security officers are highly professional, approachable and responsible. We supply carefully selected security officers both for short-notice cover and 
+                        on long-term contracts to fit your particular requirements. If you are looking for a local, reliable and friendly service, please get in touch to discuss
+                        your requirements 
+                        and see if 
+                        we can help.</p>
 
 				</div>
 
@@ -79,6 +75,7 @@
 		</div> <!-- end .container -->
 
 	</section> <!-- end .page-section -->
+
 
 
     <?php include_once $root_dir . '/php/components/footer.php' ?>
