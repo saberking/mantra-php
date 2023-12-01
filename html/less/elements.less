@@ -1908,9 +1908,13 @@ ul {
  * Icon box with  icon being display
  * aside from the box content
  */
-.icon-box.ib-icon-aside {
 
+@media screen and (min-width: 992px) {
+	.icon-box.ib-icon-aside {
 	padding-left: 80px;
+	}
+}
+.icon-box.ib-icon-aside {
 
 	> .ib-title {
 		margin-top: 0 !important;
@@ -4998,4 +5002,9 @@ input[type=radio] {
 
 	}
 
+}
+@media screen and (max-width: 991px) {
+	.icon-box.ib-icon-aside{
+		padding-left: 0px !important;
+	}
 }

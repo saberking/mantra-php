@@ -5209,8 +5209,10 @@ ul.list-icon-triangle-circle-out li:before {
  * Icon box with  icon being display
  * aside from the box content
  */
-.icon-box.ib-icon-aside {
-  padding-left: 80px;
+@media screen and (min-width: 992px) {
+  .icon-box.ib-icon-aside {
+    padding-left: 80px;
+  }
 }
 .icon-box.ib-icon-aside > .ib-title {
   margin-top: 0 !important;
@@ -7636,6 +7638,11 @@ input[type=radio] {
 }
 .font-white .table.table-hover > tbody > tr:hover {
   background-color: #191919;
+}
+@media screen and (max-width: 991px) {
+  .icon-box.ib-icon-aside {
+    padding-left: 0px !important;
+  }
 }
 /*----------------------------------------
 	13. Map
