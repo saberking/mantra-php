@@ -26,3 +26,5 @@
 	<link rel="stylesheet" href="/css/margins.css" type="text/css">
 	<link rel="stylesheet" href="/css/vegas.min.css" type="text/css">
 	<link rel="stylesheet" href="/css/mantra.css" type="text/css">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"

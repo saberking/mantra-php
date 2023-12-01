@@ -48,48 +48,12 @@
 
 		<div class="container">
 
-			<h2 class="mb-60">Send Us A Message</h2>
 
 			<div class="row">
 
 				<div class="col-md-8 col-sm-12 mb-sm-60">
 
-					<form class="form-alt">
-
-						<div class="row">
-
-							<div class="col-md-6 col-sm-12">
-
-								<div class="form-group">
-									<input type="text" id="name" class="form-control" placeholder="Name">
-								</div>
-
-							</div>
-
-							<div class="col-md-6 col-sm-12">
-
-								<div class="form-group">
-									<input type="email" id="email" class="form-control" placeholder="Email">
-								</div>
-
-							</div>
-
-						</div> <!-- end .row -->
-
-						<div class="form-group">
-							<input type="text" id="subject" class="form-control" placeholder="Subject">
-						</div> <!-- end .form-group -->
-
-						<div class="form-group">
-							<textarea id="message" class="form-control" placeholder="Message" rows="8"></textarea>
-						</div>
-
-						<div class="form-group">
-							<input id="submit" type="submit" class="btn btn-bg-dark" value="Send Message">
-						</div>
-
-					</form>
-
+				<?php include_once $root_dir . '/php/components/map.php'?>
 				</div>
 
 				<div class="col-md-4 col-sm-12">
@@ -135,6 +99,33 @@
 						</p>
 
 					</div> <!-- end .icon-box -->
+					<div class="icon-box ib-icon-aside ib-icon-up">
+
+						<div class="ib-icon">
+							<i class="icon_mobile"></i>
+						</div>
+
+						<h5 class="ib-title">Phone</h5>
+
+						<p class="ib-desc">
+							123 645 0126
+						</p>
+
+					</div> <!-- end .icon-box -->
+
+					<div class="icon-box ib-icon-aside ib-icon-up">
+
+						<div class="ib-icon">
+							<i class="icon_mail_alt"></i>
+						</div>
+
+						<h5 class="ib-title">Email</h5>
+
+						<p class="ib-desc">
+							contact@vistous.com
+						</p>
+
+					</div> <!-- end .icon-box -->
 
 				</div>
 
@@ -144,13 +135,7 @@
 
 	</section> <!-- end .page-section -->
 
-	<section class="page-section p-0">
 
-		<div class="map-wrapper" data-plugin-google-map data-plugin-options='{"marker": {"address": "Haltern am See, Weseler Str. 151"}}'>
-			<div class="google-map"></div>
-		</div> <!-- end .map-wrapper -->
-
-	</section> <!-- end .page-section -->
 
     <?php include_once $root_dir . '/php/components/footer.php' ?>
 

@@ -97,53 +97,6 @@
 
 				</div> <!-- end column -->
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="icon-box ib-icon-aside wow fadeInUp">
-
-						<div class="ib-icon">
-							<i class="icon_easel"></i>
-						</div>
-
-						<h6 class="ib-title">Global Marketing</h6>
-
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
-					</div> <!-- end .icon-box -->
-
-				</div> <!-- end column -->
-
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="icon-box ib-icon-aside wow fadeInUp" data-wow-delay="150ms">
-
-						<div class="ib-icon">
-							<i class="icon_datareport"></i>
-						</div>
-
-						<h6 class="ib-title">Analysis</h6>
-
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
-					</div> <!-- end .icon-box -->
-
-				</div> <!-- end column -->
-
-				<div class="col-md-4 col-sm-6 col-xs-12">
-
-					<div class="icon-box ib-icon-aside wow fadeInUp" data-wow-delay="300ms">
-
-						<div class="ib-icon">
-							<i class="icon_currency"></i>
-						</div>
-
-						<h6 class="ib-title">Competitive Prices</h6>
-
-						<p class="ib-desc">Suspendisse sit amet sapien erat. In ultricies, mi eu efficitur interdum.</p>
-
-					</div> <!-- end .icon-box -->
-
-				</div> <!-- end column -->
 
 			</div> <!-- end .row -->			
 

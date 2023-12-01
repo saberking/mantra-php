@@ -17,3 +17,8 @@
 <script src="/js/plugins.js"></script>
 <script src="/js/elements.js"></script>
 <script src="/js/functions.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/ol@v7.2.2/dist/ol.js"></script>
+<script src="/js/map.js" type="module"></script>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+    crossorigin=""></script>
