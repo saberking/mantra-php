@@ -6,7 +6,7 @@
 
         <div class="header-row">
 
-            <a class="header-column" style="width:40px" href="/php/pages/home.php">
+            <a class="header-column" style="width:40px" href="home">
                 <div class="logo-wrapper">
                     <img class="logo-dark" src="/img/mantra/logo-xs.png">
                     <img class="logo-light" src="/img/mantra/logo-xs.png">
@@ -21,16 +21,16 @@
 
                         <!-- Home -->
                         <li class="dropdown">
-                            <a class="dropdown-padded" href="/php/pages/home.php">Home</a>
+                            <a class="dropdown-padded" href="home">Home</a>
                         </li>
 
                         <li class="dropdown">
-                            <a class="dropdown-padded" href="/php/pages/security.php">Security</a>
+                            <a class="dropdown-padded" href="security">Security</a>
                         </li>
 
                         <li class="dropdown">
 
-                            <a class="dropdown-padded" href="/php/pages/warehouse.php">Warehouse</a>
+                            <a class="dropdown-padded" href="warehouse">Warehouse</a>
 
                          
 
@@ -38,13 +38,13 @@
 
                         <li class="dropdown">
 
-                            <a class="dropdown-padded" href="/php/pages/gallery.php">Gallery</a>
+                            <a class="dropdown-padded" href="gallery">Gallery</a>
 
                         </li>
 
                         <li class="dropdown">
 
-                            <a class="dropdown-padded" href="/php/pages/contact.php">Contact us</a>
+                            <a class="dropdown-padded" href="contact">Contact us</a>
                         </li>
 
                         <li class="mobile-hide">
