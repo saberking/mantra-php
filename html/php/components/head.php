@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="img/favicon.png">
+	<link rel="shortcut icon" href="img/mantra/favicon.png">
 	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
@@ -27,4 +27,5 @@
 	<link rel="stylesheet" href="/css/vegas.min.css" type="text/css">
 	<link rel="stylesheet" href="/css/mantra.css" type="text/css">
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
+
