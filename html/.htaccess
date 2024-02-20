@@ -1,0 +1,11 @@
+
+RewriteEngine On
+RewriteBase "/"
+RewriteRule "^security$"  "php/pages/security.php"
+RewriteRule "^warehouse$"  "php/pages/warehouse.php"
+RewriteRule "^home$"  "php/pages/home.php"
+RewriteRule "^$"  "php/pages/home.php"
+RewriteRule "^gallery$"  "php/pages/gallery.php"
+RewriteRule "^contact$"  "php/pages/contact.php"
+RewriteRule "^privacy$"  "php/pages/privacy.php"
+RewriteRule "^terms$"  "php/pages/terms.php"

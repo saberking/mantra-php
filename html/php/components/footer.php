@@ -39,11 +39,12 @@
 
         <div class="row">
 
-            <div class="col-md-6 col-sm-12">
-
-                <div class="font-size-14">
-                    &copy; Patryk Owczarek (Vistous HTML Template) and Mantra Recruitment Group. <br><br>
-                    MIT licence<br><br>
+            <div class="col-md-6 col-sm-12 font-size-14">
+<a href="/privacy" class="privacy-link">Privacy policy</a><br>
+<a href="/terms" class="terms-link">Terms and Conditions</a>
+                <div>
+                    &copy; Patryk Owczarek (Vistous HTML Template) and Mantra Recruitment Group. <br>
+                    <a class="privacy-link" href="https://opensource.org/license/mit/">MIT licence</a><br><br>
 </div>
 
             </div>

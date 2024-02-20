@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="/css/owl.carousel.css" type="text/css">
 	<link rel="stylesheet" href="/css/magnific-popup.css" type="text/css">
 	<link rel="stylesheet" href="/css/jquery.mb.YTPlayer.min.css" type="text/css">
-	<link rel="stylesheet" href="/css/styles2.css" type="text/css">
+	<link rel="stylesheet" href="/css/style.css" type="text/css">
 	<link rel="stylesheet" href="/css/margins.css" type="text/css">
 	<link rel="stylesheet" href="/css/vegas.min.css" type="text/css">
 	<link rel="stylesheet" href="/css/mantra.css" type="text/css">
